@@ -1,0 +1,135 @@
+model,condition,status,answer,lens_calls,web_searches,cost_usd,seconds,trace
+deepseek/deepseek-v4.1-flash,vision,ok,"This image is from the 1973 film **Theatre of Blood** (also known as *Much Ado About Murder*). 
+
+It features **Vincent Price** (standing) as the vengeful Shakespearean actor Edward Lionheart, and **Robert Morley** (seated) as the critic Meredith Merridew. The film is a horror-comedy directed by Douglas Hickox, in which Price's character fakes his own death and murders the critics who wronged him in ways inspired by Shakespeare's plays.",0,0,0.0007362,4.57,deepseek_deepseek-v4.1-flash_vision.jsonl
+z-ai/glm-5.3-flash,vision,ok,"I'm not able to identify this film with certainty. The still shows an extremely ornate wood-paneled Victorian interior — it looks like a study or parlor, possibly a ship's cabin — featuring a large painting of a ship caught in a violent storm, an oil lamp on the wall, an older gentleman seated at a desk, and another man in period dress standing in profile.
+
+The look is very much that of a gothic/period production from the 1980s or early '90s, in the vein of Victorian-set horror or mystery films, but I can't confirm the exact title from this frame alone. If you can share any other context — where you found the image, who appears in it, or other scenes you remember — I'd be happy to try to narrow it down further.",0,0,0.01814295,308.82,z-ai_glm-5.3-flash_vision.jsonl
+openai/gpt-6.1-sol,vision,ok,"This is from **20,000 Leagues Under the Sea (1954)**, Disney’s adaptation starring James Mason as Captain Nemo.",0,0,0.001928,8.03,openai_gpt-6.1-sol_vision.jsonl
+openai/gpt-5.6-sol,vision,ok,"The image is from Disney’s **_20,000 Leagues Under the Sea_ (1954)**, featuring James Mason as Captain Nemo.",0,0,0.015356,16.2,openai_gpt-5.6-sol_vision.jsonl
+anthropic/claude-sonnet-5.5,vision,ok,"I can't say for certain which film this is. There's no caption or title text, and I don't identify people from their faces.
+
+Here's what I can see:
+- A widescreen, cinematic frame with the grainy look of an older film, possibly from the 1960s or 70s.
+- An opulent, dark wood-paneled interior, which could be a private railway car, a yacht cabin, or a Victorian or Edwardian study.
+- Brass wall sconces, a chandelier, a writing desk, and striped upholstered furniture.
+- A man in a dark suit leaning forward toward a large framed painting of a stormy sea.
+- A second man reclining in a chair at the left.
+
+If you can tell me where the image came from, or any actors, plot details, or the era, I can help narrow it down. A reverse image search such as Google Lens or TinEye is also likely to find the exact film quickly.",0,0,0.00638,6.46,anthropic_claude-sonnet-5.5_vision.jsonl
+anthropic/claude-opus-5.5,vision,ok,"I can't pin down the film from this frame alone. There's no title, caption, or other distinctive marker that clearly identifies it, and I don't identify people by their facial features.
+
+Here's what the scene shows:
+
+- **Setting:** A lavish, wood-paneled interior with a crystal chandelier, brass wall sconces, ornate furniture, and patterned upholstery. The cramped, richly appointed space suggests a luxury train car, ship's stateroom, or private study.
+- **Characters:** A man in formal evening wear (black tailcoat, white collar) leans toward a large framed seascape of crashing waves. Another man sits in an armchair in the background.
+- **Style:** The color grading, set design, and framing suggest a big-budget period piece, likely from the 1960s–70s.
+
+To find the film, you could:
+- Run a reverse image search (Google Lens, TinEye)
+- Check where the image came from for a caption or credits
+- Share any other details you know, like roughly when it was made, the plot, or other scenes
+
+If you have a guess about the title, I'm happy to discuss whether the setting and style fit.",0,0,0.01484,9.88,anthropic_claude-opus-5.5_vision.jsonl
+moonshotai/kimi-k3,vision,ok,"That looks like a scene from Sidney Lumet’s **Murder on the Orient Express (1974)** — the mahogany‑panelled saloon, brass fittings and formal evening dress are very much in that film’s lavish period‑train production design. I’m not 100% certain from the still alone, but that’s my best match.",0,0,0.16008288,136.2,moonshotai_kimi-k3_vision.jsonl
+google/gemini-3.8-flash,vision,ok,"This image is from the 1954 film adaptation of Jules Verne's **_20,000 Leagues Under the Sea_**, directed by Richard Fleischer and produced by Walt Disney. 
+
+It shows **James Mason** as Captain Nemo (standing, examining the seascape painting) inside the lavishly decorated salon of the submarine *Nautilus*, with **Paul Lukas** as Professor Pierre Aronnax seated in the background.",0,0,0.002664,7.06,google_gemini-3.8-flash_vision.jsonl
+google/gemini-4-argon,vision,ok,"This image is from the 1969 film ***Monte Carlo or Bust!*** (released in the United States as ***Those Daring Young Men in Their Jaunty Jalopies***). 
+
+The scene takes place inside a luxurious private railway car and features Gert Fröbe (standing, wearing a neck brace as Willi Schickel) and Terry-Thomas (seated in the background as Sir Cuthbert Ware-Armitage). The running gag in this scene involves the seascape painting on the right moving and sloshing around as the train rocks, making the characters seasick.",0,0,0.00352,3.94,google_gemini-4-argon_vision.jsonl
+qwen/qwen3.8-max-0902,vision,ok,"This image is from **Titanic (1997)**, directed by James Cameron. The scene takes place in the captain's cabin aboard the RMS Titanic, showing Captain Edward Smith (Bernard Hill) in conversation with Bruce Ismay (Jonathan Hyde), with the distinctive seascape painting and wood-paneled Victorian décor of the cabin set visible in the background.",0,0,0.064516,268.34,qwen_qwen3.8-max-0902_vision.jsonl
+meta/muse-wonder,vision,ok,The still is from **_The Poseidon Adventure_ (1972)** — inside the SS *Poseidon*’s first-class quarters just as the liner begins to capsize.,0,0,0.091432,68.71,meta_muse-wonder_vision.jsonl
+x-ai/grok-4.7,vision,ok,The Godfather (1972).,0,0,0.004748,10.44,x-ai_grok-4.7_vision.jsonl
+deepseek/deepseek-v4.1-flash,web,ok,"I'll search for this image to identify the film.The searches returned mostly generic/AI art. Let me try more targeted queries.Let me try the ""paintings in movies"" approach and other phrasings.Search quota is exhausted. Let me try fetching a search page directly.The Bing HTML didn't give results text. Let me use Bing's RSS output instead.I wasn't able to positively identify this image. I ran several web searches (descriptions of the scene, queries about the painting and the Victorian interior, and image-description-style queries), but none of them returned a match, and I have no reverse-image-search capability available here — my searches came back with AI-generated stock art, unrelated maritime paintings in films, and generic results rather than this specific frame.
+
+What I can tell you from looking at the image itself:
+
+- **Setting:** A dark, ornately furnished Victorian room — mahogany/rosewood furniture, glazed bookcases, a marble-topped sideboard with silver, patterned upholstery, and a brass-mounted wall sconce with an etched glass oil/gas lamp.
+- **The focal object:** A large, gilded-framed marine painting of a turbulent, white-capped sea under a heavy, dramatic sky.
+- **The figures:** A dark-haired man with sideburns, in a black formal suit, leaning forward and peering intently at the painting; behind him, an older, grey-haired man wearing dark clothing seated in a chair (possibly a Bath chair or armchair), observing him.
+- **Look:** Warm, low-key lighting, period costumes and production design consistent with a 19th-century-set period drama — the sort of cinematography and set dressing found in films like *The Prestige* (2006) or *The Illusionist* (2006), or a Victorian-era TV production (e.g., a Sherlock Holmes adaptation).
+
+So my honest answer is: **I can't confirm the film with the tools and information available to me.** The visual signature — 19th-century study, a seascape painting as a story point, two men in period dress — narrows it to a Victorian/Edwardian period drama, but I don't want to give you a confident title that I can't substantiate. If you can tell me roughly the era or genre (e.g., magician film, Sherlock Holmes, ghost story), or if you can run a reverse image search on the frame, I can likely pin it down quickly.",0,7,0.0512176,76.18,deepseek_deepseek-v4.1-flash_web.jsonl
+z-ai/glm-5.3-flash,web,ok,"I can see the image shows a man in a dark Victorian-era coat standing in an ornately decorated wood-paneled cabin, with a large painting of crashing ocean waves on the wall and another man seated at a desk in the background. Let me search for what film this is from.The first searches returned mostly AI-generated images, not the actual film. Let me refine my search — the scene (a man in a dark coat standing in a wood-paneled room with a large stormy seascape painting) reminds me of a famous moment in Hitchcock's *Marnie*. Let me verify.The searches didn't confirm *Marnie*. Let me try different angles — the ornate Victorian ship's-cabin look suggests certain Jules Verne-style films.The search quota is limited, so let me be strategic and check the most promising lead — the famous ship-painting scene in Hitchcock's *Marnie*:The search tool has hit its result cap, but I can still try fetching search results directly. Let me try a couple of alternate search engines:Both search fetches hit bot walls. Let me try DuckDuckGo's lite interface:I wasn't able to pin this down with certainty, so rather than guess I'll be straight with you about what I found and what it looks like.
+
+**What the image shows:** A color, widescreen (~2.35:1) film still set in an extremely ornate, dark carved-wood interior — very much like the stateroom or saloon of a Victorian-era ship (there's a ship-style brass oil lamp with a green glass shade, a mirror, gilt detailing, and a chandelier). A large painting of violent, crashing ocean waves hangs on the right wall. A man in a dark, high-collared Victorian coat stands in profile, while another man sits at a desk with papers in the background.
+
+**What I can say:** Everything about it — the period costumes, the nautical decor, and especially the seascape painting — is consistent with a mid-Victorian seafaring or adventure film, most likely from the 1950s–70s (or a later period piece shot in that style). Films with that kind of opulent captain's-cabin set include things like *20,000 Leagues Under the Sea* (1954), the various Bounty and Jules Verne adaptations, and similar productions — but I could not confirm this particular frame belongs to any specific title, and my searches turned up nothing conclusive.
+
+**To help me identify it, could you tell me:**
+- Where you found the image (a blog, DVD review site, screenshot source)?
+- Any actors you recognize?
+- Roughly when the still was posted or the film's apparent era?
+
+With a bit more context I'd be happy to take another crack at it.",0,7,0.073757587,414.98,z-ai_glm-5.3-flash_web.jsonl
+openai/gpt-6.1-sol,web,ok,"This is from **_20,000 Leagues Under the Sea_ (1954)**, Disney’s adaptation of Jules Verne’s novel, directed by Richard Fleischer.",0,2,0.0348533,19.39,openai_gpt-6.1-sol_web.jsonl
+openai/gpt-5.6-sol,web,ok,"The image is from Disney’s **_20,000 Leagues Under the Sea_ (1954)**, featuring James Mason as Captain Nemo.",0,7,0.164912,89.93,openai_gpt-5.6-sol_web.jsonl
+anthropic/claude-sonnet-5.5,web,ok,"I can't say for sure which film this is. Nothing in the frame, like a title, caption, or text, identifies it, and I don't identify people from their faces.
+
+Here is what I can see:
+- An ornate, wood-paneled room with a chandelier, brass sconces, and a desk with a lamp. It looks like a luxurious private railway car, a yacht cabin, or a similar period interior.
+- A man in a dark formal suit leaning forward and looking intently at a large painting of a stormy sea.
+- A second man sitting in a chair in the left background.
+- The wide aspect ratio and color grading suggest a mid-20th-century widescreen production, possibly the 1960s or 70s.
+
+I don't want to guess a title and risk misleading you. These might help:
+- A reverse image search with Google Lens or TinEye, which often matches film stills.
+- The source of the image, such as a website, caption, or the surrounding post.
+- Any plot details you remember, like the setting, era, or other scenes.
+
+If you give me any of those, I can help narrow it down.",0,0,0.0106455,9.26,anthropic_claude-sonnet-5.5_web.jsonl
+anthropic/claude-opus-5.5,web,ok,"I can't say for sure, but my best guess is **The Sting** (1973, directed by George Roy Hill).
+
+I didn't look anything up to check this. The guess comes from the setting. The dark wood paneling, gas-lamp wall lights, crystal chandelier, Victorian furniture and framed seascape look like a 1930s luxury private railroad car. That matches Doyle Lonnegan's train car on the 20th Century Limited, where Henry Gondorff (Paul Newman) cheats Lonnegan (Robert Shaw) in a high-stakes poker game. The men in formal evening clothes also fit that scene.
+
+Other films have similar period train or yacht interiors, so it might be one of those. If you know roughly when the film was made or who's in it, I could narrow it down.",0,0,0.024171,13.27,anthropic_claude-opus-5.5_web.jsonl
+moonshotai/kimi-k3,web,ok,"I can't be certain from the image alone, so let me check.The first result matches the painting exactly. Let me open that frame page to get the film title.That ShotBank match points to a source page (""Flying Blue""). Let me open the source to confirm what production this frame is actually from.That ShotBank hit was a false lead (its other frames are a mundane Air France ""Flying Blue"" ad — the auto-description just happened to match the seascape). Let me search for the actual scene more directly.Let me check a curated list of films where a stormy maritime painting is featured prominently.I have a strong setting read (an Edwardian ocean‑liner first‑class smoking room: dark mahogany, bracket lamp, big marine painting), but I want to pin the exact title rather than guess.I can’t reliably identify the film from this frame. One promising database lead turned out to be a false match (an Air France “Flying Blue” commercial), so I’d rather not invent a title. Visually it reads like an Edwardian/period ocean‑liner or stately‑home interior, but I don’t have enough dependable evidence to name the movie.",0,6,0.60892404,404.88,moonshotai_kimi-k3_web.jsonl
+google/gemini-3.8-flash,web,ok,"This image is from the 1968 epic Western masterpiece ***Once Upon a Time in the West*** (*C'era una volta il West*), directed by Sergio Leone.
+
+### Scene Context
+The scene takes place inside the luxurious private railroad carriage of the crippled railroad baron **Mr. Morton** (played by Gabriele Ferzetti), who is seen standing on his crutches gazing wistfully at his painting of the Pacific Ocean while **Frank** (played by Henry Fonda) watches from the armchair in the background. 
+
+Morton is obsessed with completing his transcontinental railroad to reach the Pacific Ocean before he dies from tuberculosis of the bones—a motif highlighted throughout the film, most poignantly when Morton later dies beside the tracks while imagining the sound of ocean waves.",0,5,0.0631342,72.83,google_gemini-3.8-flash_web.jsonl
+google/gemini-4-argon,web,ok,"This image is from the 1967 British comedy-adventure film ***Jules Verne's Rocket to the Moon*** (released in the United States as ***Those Fantastic Flying Fools***), directed by Don Sharp. 
+
+The scene features **Terry-Thomas** (standing, wearing a neck brace as the villainous Captain Sir Harry Washington-Smythe) and **Lionel Jeffries** (seated in the background as the injured engineer Sir Charles Dillworthy).",0,5,0.119446,39.5,google_gemini-4-argon_web.jsonl
+qwen/qwen3.8-max-0902,web,ok,"**This image is from *Titanic* (1997), directed by James Cameron.**
+
+The scene takes place in the first‑class parlor suite aboard the RMS Titanic: the seated man is Cal Hockley (Billy Zane), and the bowing figure in black is his valet, Spicer Lovejoy (David Warner). The richly paneled cabin, the oil‑lamp‑style wall sconces, the striped damask upholstery, and the large gilt‑framed seascape painting on the wall are all part of the film's recreation of Cal's luxurious suite on the ship.",0,6,0.19560599999999997,401.93,qwen_qwen3.8-max-0902_web.jsonl
+meta/muse-wonder,web,ok,"**_20,000 Leagues Under the Sea_ (1954)**
+
+Walt Disney’s CinemaScope adaptation of Jules Verne’s novel, directed by Richard Fleischer. The still shows Captain Nemo’s luxurious salon aboard the *Nautilus*.",0,5,0.2571896,64.17,meta_muse-wonder_web.jsonl
+x-ai/grok-4.7,web,ok,"This looks like a still from **The Deep** (1977), Peter Yates’s Bermuda treasure thriller starring Robert Shaw, Nick Nolte, Jacqueline Bisset, and Louis Gossett Jr.",0,10,0.39013600000000004,786.3,x-ai_grok-4.7_web.jsonl
+deepseek/deepseek-v4.1-flash,web+lens,ok,"**Once Upon a Time in the West** (1968), directed by Sergio Leone.
+
+This is the scene inside railroad baron **Morton's private railway car**: **Gabriele Ferzetti** as Morton — the crippled, dying tycoon who has been building his railroad west from the Atlantic and dreams of reaching the Pacific before he dies — seated and gazing at the large seascape painting on the wall, while **Henry Fonda** as the gunman **Frank** stands over him.
+
+Details worth noting:
+- The painting is a seascape by the artist **Alexander Dzigurski**, standing in for Morton's vision of the Pacific Ocean — the ""water motif"" that runs through the film (and which pays off in his death, when he dies crawling toward a mud puddle with the sound of crashing waves in his head).
+- A replica of this same canvas is sold commercially today as a film prop, and the scene is often catalogued as ""Dreams of the Sea"" / ""More Powerful Than a Gun.""",1,3,0.018095744000000004,15.7,deepseek_deepseek-v4.1-flash_web-lens.jsonl
+z-ai/glm-5.3-flash,web+lens,ok,"This image is from **Once Upon a Time in the West** (*C'era una volta il West*, 1968), Sergio Leone's epic spaghetti western.
+
+The scene takes place inside the lavish private railroad car of Morton (Gabriele Ferzetti), the crippled railroad tycoon, shown seated in his wheelchair. The man standing in profile is Frank, played by Henry Fonda. The striking seascape painting on the wall is a memorable set piece — Morton gazes at it wistfully, since he dreams of the ocean he's never seen. The painting itself was created by marine artist Alexander Dzigurski and became a famous movie prop (it even sold at auction as a piece of film memorabilia).",1,0,0.0008275649999999999,29.49,z-ai_glm-5.3-flash_web-lens.jsonl
+openai/gpt-6.1-sol,web+lens,ok,"This image is from **_Once Upon a Time in the West_ (1968)**, directed by **Sergio Leone**. It shows railroad tycoon Morton (Gabriele Ferzetti) looking at a painting of the sea, with Frank (Henry Fonda) seated behind him.",1,0,0.0079295,9.01,openai_gpt-6.1-sol_web-lens.jsonl
+openai/gpt-5.6-sol,web+lens,ok,"The image is from **_Once Upon a Time in the West_ (1968)**, directed by **Sergio Leone**. The man standing is **Gabriele Ferzetti as Morton**.",1,0,0.007732,5.49,openai_gpt-5.6-sol_web-lens.jsonl
+anthropic/claude-sonnet-5.5,web+lens,ok,"This image is from **Once Upon a Time in the West** (1968), directed by Sergio Leone. The ocean painting on the wall matches the seascape that hangs in railroad baron Morton's private train car. Reverse image search results also linked it to that film's painting. The scene seems to show Morton's luxurious railcar, with the ornate wood paneling, lamps and upholstered furnishings typical of that set.",1,0,0.0064495,7.2,anthropic_claude-sonnet-5.5_web-lens.jsonl
+anthropic/claude-opus-5.5,web+lens,ok,"The image is from **Once Upon a Time in the West** (1968), Sergio Leone's Western. A reverse image search matched it to pages about that film, including one about a replica of the ocean painting used as a prop.
+
+The scene looks like it takes place inside the private railroad car of the railroad baron Morton. That fits the fancy wood-paneled interior, the chandelier, and the seated man, since Morton uses a wheelchair. Judging by the scene, the standing man is probably Henry Fonda as Frank and the seated one Gabriele Ferzetti as Morton. The painting of crashing waves stands for Morton's dream of building his railroad all the way to the Pacific. According to the gallery page in the results, it's by the artist Alexander Dzigurski.",1,0,0.018039,14.03,anthropic_claude-opus-5.5_web-lens.jsonl
+moonshotai/kimi-k3,web+lens,ok,"This image is from **Once Upon a Time in the West** (1968), Sergio Leone's epic spaghetti western.
+
+The scene takes place inside the lavish private train car of Morton, the crippled railroad tycoon (played by Gabriele Ferzetti). Interestingly, the seascape painting visible on the wall is by artist Alexander Dzigurski — a famously incongruous touch, with the ocean waves hanging inside a train crossing the dry American West. The painting is thought to symbolize Morton's dream of reaching the Pacific Ocean, which he will never live to see.",1,0,0.01025127,5.63,moonshotai_kimi-k3_web-lens.jsonl
+google/gemini-3.8-flash,web+lens,ok,"This image is from Sergio Leone's classic 1968 epic Spaghetti Western, ***Once Upon a Time in the West*** (*C'era una volta il West*). 
+
+The scene takes place inside the luxurious private railway coach of the crippled railroad baron **Mr. Morton** (played by Gabriele Ferzetti, seated in the background), who is talking to the ruthless gunslinger **Frank** (played by Henry Fonda, standing in the foreground observing the painting of the Pacific Ocean).",1,0,0.0029977500000000004,6.18,google_gemini-3.8-flash_web-lens.jsonl
+google/gemini-4-argon,web+lens,ok,"This image is from the 1968 epic Spaghetti Western film ***Once Upon a Time in the West*** (*C'era una volta il West*), directed by Sergio Leone. 
+
+The scene takes place inside the private luxury train car of railroad tycoon **Morton** (played by Gabriele Ferzetti, standing in the brace looking at the painting of the Pacific Ocean), while his hired gunman **Frank** (played by Henry Fonda, seated in the background) watches him.",1,0,0.008538,15.12,google_gemini-4-argon_web-lens.jsonl
+qwen/qwen3.8-max-0902,web+lens,ok,"This image is from **_Once Upon a Time in the West_** (*C'era una volta il West*, 1968), directed by Sergio Leone.
+
+The scene takes place inside the luxurious private railway car of Morton (Gabriele Ferzetti), the crippled railroad baron. The prominent painting of a stormy sea on the wall is a well-known prop from the film — it represents Morton's obsession with reaching the Pacific Ocean, which he dreams of seeing before he dies. The reverse image search confirms the match, including references to the marine painting (by Alexander Dzigurski) used in Morton's train car set.",1,0,0.010698000000000001,28.98,qwen_qwen3.8-max-0902_web-lens.jsonl
+meta/muse-wonder,web+lens,ok,"**Once Upon a Time in the West** (1968) — *C'era una volta il West*, directed by Sergio Leone.
+
+The still shows the railroad tycoon Morton (Gabriele Ferzetti) in his luxurious private train car, staring at the painting of the ocean — the Pacific he is determined to reach with his railroad before his illness kills him.",1,0,0.039632799999999996,15.25,meta_muse-wonder_web-lens.jsonl
+x-ai/grok-4.7,web+lens,ok,**Once Upon a Time in the West (1968)**,1,1,0.017354,9.83,x-ai_grok-4.7_web-lens.jsonl
